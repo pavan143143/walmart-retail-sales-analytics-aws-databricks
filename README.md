@@ -7,6 +7,10 @@ This project demonstrates an **end-to-end Retail Sales Analytics Platform** buil
 The solution focuses on transforming **raw, real-world retail data** containing malformed dates and inconsistent numeric values into **clean, governed and analytics-ready datasets**.  
 The final output supports fast analytical queries and business intelligence use cases using a **star schema design**.
 
+**Note:**  
+- This project conceptually follows an AWS-based architecture using Amazon S3 as the raw data source. However, due to limitations of the Databricks Community Edition (which does not support direct cloud storage  integrations), the actual implementation uses Databricks-managed storage to simulate the S3 ingestion layer.    
+- The overall architecture, data modeling, transformations, and optimization techniques remain aligned with real-world, production-grade data engineering practices.
+
 ---
 
 ## Architecture
