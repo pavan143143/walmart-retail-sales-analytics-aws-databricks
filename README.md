@@ -47,8 +47,8 @@ The final output supports fast analytical queries and business intelligence use 
 - **SQL** – Analytics, modeling and optimizations
 - **Medallion Architecture** – Scalable data design pattern
 - **AWS** – S3 **note: it was not used as we are using databricks community edition**
-👀 Project Views  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pavan143143.walmart-retail-sales-analytics-aws-databricks)
+---
+👀 Project Views  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pavan143143.walmart-retail-sales-analytics-aws-databricks)
 
 ---
 
