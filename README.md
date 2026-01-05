@@ -1,4 +1,4 @@
-# walmart Retail Sales Analytics Platform (Databricks End-to-End Data Engineering Project)
+# Walmart Retail Sales Analytics Platform (Databricks End-to-End Data Engineering Project)
 
 ##  Overview
 
