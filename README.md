@@ -14,6 +14,7 @@ The final output supports fast analytical queries and business intelligence use 
 ---
 
 ## Architecture
+<img width="1024" height="559" alt="Walmart project architecture" src="https://github.com/user-attachments/assets/3eddf26c-aaa8-4717-9f5f-67e0452edc75" />
 
 **Medallion Architecture ensures**:
 - Traceability of raw data
